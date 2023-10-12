@@ -1,0 +1,41 @@
+﻿ID,Name,Address_1,Town,Post_Code,Turnover,Membership
+C001,Hampshire Heights Hotel,56 Meadowview Drive,Farnborough,GU14 7QF,500000,Standard
+C002,Surrey Springs Inn,34 Woodland Lane,Guildford,GU2 7XH,3900000,Standard
+C003,Woking Waterside Lodge,45 Canal Walk,Woking,GU21 6HG,600000,VIP
+C004,Berkshire Bluffs Hotel,78 Hilltop Crescent,Reading,RG1 7DF,2500000,Standard
+C005,Ascot Oasis Hotel,101 Racecourse Road,Ascot,SL5 7EX,2200000,Standard
+C006,Winchester Woodlands Retreat,23 Forest Lane,Winchester,SO23 9PA,1000000,VIP
+C007,Basingstoke Beacon Hotel,67 Beacon Hill,Basingstoke,RG21 5GQ,3200000,VIP
+C008,Sutton Green Suites,56 Village Way,Sutton,SM1 2HD,1200000,Standard
+C009,Epsom Downs Manor,89 Hillside Drive,Epsom,KT18 5DS,3600000,VIP
+C010,Bracknell Forest Lodge,45 Woodland Park,Bracknell,RG12 7PA,1200000,Standard
+C011,Aldershot Heights Hotel,200 Highclere Avenue,Aldershot,GU11 1QQ,2900000,Standard
+C012,XCamberley Central InnX,33 Park Street,Camberley,GU15 3PQ,2200000,Standard
+C013,Fleet Lakeside Retreat,78 Lakeside Way,Fleet,GU51 3AU,3500000,Standard
+C014,Hook Hilltop Hotel,56 Hillside Avenue,Hook,RG27 9GH,2000000,Standard
+C015,Yateley Valley View Lodge,67 Valley Road,Yateley,GU46 7SZ,2300000,Standard
+C016,Farnham Manor House,23 Manor Lane,Farnham,GU9 8HT,2500000,Standard
+C017,Aldershot Garrison Guesthouse,34 Garrison Road,Aldershot,GU11 1QT,3600000,Standard
+C018,Crowthorne Countryside Inn,45 Meadowview Lane,Crowthorne,RG45 7UJ,600000,Standard
+C019,Bagshot Woodlands Hotel,56 Forest View Road,Bagshot,GU19 5PF,1100000,Standard
+C020,Lightwater Lakeside Lodge,67 Lakeside Terrace,Lightwater,GU18 5YS,2600000,Standard
+C021,Guildford Riverside Suites,45 Riverbank Road,Guildford,GU1 2LF,3400000,Standard
+C022,Wokingham Woods Retreat,56 Forest Lane,Wokingham,RG40 2DH,2300000,Standard
+C023,Reading Heights Hotel,78 Hilltop Crescent,Reading,RG1 7DF,1000000,Standard
+C024,Ascot Village Inn,101 Village Road,Ascot,SL5 8YQ,3900000,VIP
+C025,Winchester Waterside Lodge,23 Canal Walk,Winchester,SO23 9JA,1500000,Standard
+C026,Basingstoke Beacon Hotel,67 Beacon Hill,Basingstoke,RG21 5GQ,1000000,Standard
+C027,Sutton Green Suites,56 Highclere Avenue,Sutton,SM1 3JH,500000,Standard
+C028,Epsom Downs Manor,89 Hillside Drive,Epsom,KT18 5DS,2200000,Standard
+C029,Bracknell Bluffs Hotel,45 Woodland Park,Bracknell,RG12 7PA,900000,Standard
+C030,Aldershot Oasis Hotel,200 Racecourse Road,Aldershot,GU11 1YR,3700000,Standard
+C031,Camberley Central Inn,33 Park Street,Camberley,GU15 3PQ,3600000,Standard
+C032,Fleet Forest Retreat,78 Forest Way,Fleet,GU51 4PR,500000,Standard
+C033,Hook Hilltop Hotel,56 Hillside Avenue,Hook,RG27 9GH,500000,Standard
+C034,Yateley Valley View Lodge,67 Valley Road,Yateley,GU46 7SZ,2600000,Standard
+C035,Farnham Riverside Suites,45 Riverbank Road,Farnham,GU9 8LF,2200000,Standard
+C036,Aldershot Garrison Guesthouse,34 Garrison Road,Aldershot,GU11 1QT,700000,Standard
+C037,Crowthorne Countryside Inn,4 North End Road,Crowthorne,RG45 7UJ,3800000,VIP
+C038,Bagshot Woodlands Hotel,56 Forest View Road,Bagshot,GU19 5PF,600000,Standard
+C039,Lightwater Lakeside Lodge,67 Lakeside Terrace,Lightwater,GU18 5YS,1900000,VIP
+C040,Frimley Forest Retreat,78 Forest Way,Frimley,GU16 7PR,800000,Standard
