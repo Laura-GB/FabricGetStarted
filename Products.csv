@@ -1,0 +1,21 @@
+﻿Product ID,Product,Base Price,Category,Notes
+1,Apples,2.5,Fruit,
+2,Carrots,1.2,Root Veg,Good deals available
+3,Bananas,5,Fruit,
+4,Pears,3,Fruit,
+5,Parsnips,1.5,Root Veg,
+6,Potatoes,0.8,Root Veg,
+7,Cherry Tomatoes,3.2,Salad,
+8,Salad Tomatoes,3,Salad,
+9,Peppers,4.1,Salad,
+10,Cucumber,2.8,Salad,Harvest failures raising prices
+11,Celery,2.5,Salad,
+12,Mangetout,4.3,Salad,
+13,Cauliflower,2,Green Veg,
+14,Brocolli,3.1,Green Veg,
+15,Sweet Potatoes,2.8,Root Veg,
+16,Baking Potatoes,2.2,Root Veg,
+17,Courgettes,4.5,Green Veg,
+18,Squash,3.1,Green Veg,
+19,Blueberries,5,Fruit,Note storage recommendations
+20,Easy Peel Oranges,3.4,Fruit,
